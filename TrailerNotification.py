@@ -34,4 +34,4 @@ for i in TrailerStatus["Inspection Due"]:
     iterator += 1
 
 
-time.sleep(86400)
+time.sleep(21600)
